@@ -18,7 +18,7 @@
 
 它也有[通俗易懂版本](https://github.com/jiqing112/GLWTPL/blob/master/translations/LICENSE_zh-CN)。庆祝一下吧！
 
-### 能的用例
+### 可能的用例
 
 - 您编写了一些代码，但并不值得十分自豪，但还是希望释放它。
 - 你想放飞你的代码，让他野蛮生长，还不想为此负任何责任。
@@ -26,7 +26,7 @@
 - 在HACKASON/CART之类的竞赛中建立了一个很棒的项目？需要许可？这是你的专属协议。
 - 你的学院/大学课程/实验室的工作和这个许可证是天作之合。
 
-### Translations
+### 译者
 * [Arabic - العربيه](translations/LICENSE_ar-AR)
 * [Cantonese - 廣東話](translations/LICENSE_zh-HK)
 * [Catalan - Català](translations/LICENSE_cat-CAT)
@@ -47,5 +47,5 @@
 
 
 
-### 献准则
+### 贡献准则
 请看我之前的[贡献指南](https://github.com/jiqing112/GLWTPL/wiki "贡献指南")。
