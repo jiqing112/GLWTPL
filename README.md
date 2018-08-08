@@ -12,9 +12,9 @@
 
 并且，祝福送给:  
 
-未来的自己，或者其他人，外星人甚至一个人工智能机器人（就是可以自己编程还准备毁灭人类）  
+未来的自己，或者其他人，外星人甚至一个人工智能机器人（就是可以自己编程还准备毁灭人类的那种）  
 
-  ——反正就是胆大包天敢用你的项目的那种人。
+  ——反正就是胆大包天敢用你的项目的那类人。
 
 [![GOODLUCK](https://github.com/me-shaon/GLWTPL/blob/master/good-luck.gif "GOODLUCK")](https://github.com/me-shaon/GLWTPL/blob/master/good-luck.gif "GOODLUCK")
 
