@@ -48,4 +48,4 @@
 
 
 ### 献准则
-请看我之前的[贡献指南](https://github.com/me-shaon/GLWTPL/wiki#contribution-guideline "贡献指南")。
+请看我之前的[贡献指南](https://github.com/jiqing112/GLWTPL/wiki "贡献指南")。
