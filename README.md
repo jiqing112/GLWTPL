@@ -10,8 +10,10 @@
 
 …还考虑个屁，把[许可证](https://github.com/jiqing112/GLWTPL/blob/master/translations/LICENSE_zh-CN)的项目里！
 
-并且，祝福送给:
-未来的自己，或者其他人，外星人甚至一个人工智能机器人（就是可以自己编程还准备毁灭人类）
+并且，祝福送给:  
+
+未来的自己，或者其他人，外星人甚至一个人工智能机器人（就是可以自己编程还准备毁灭人类）  
+
   ——反正就是胆大包天敢用你的项目的那种人。
 
 [![GOODLUCK](https://github.com/me-shaon/GLWTPL/blob/master/good-luck.gif "GOODLUCK")](https://github.com/me-shaon/GLWTPL/blob/master/good-luck.gif "GOODLUCK")
