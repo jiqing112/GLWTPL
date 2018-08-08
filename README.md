@@ -8,7 +8,7 @@
 `当朕写这些代码的时候，只有道祖鸿钧和朕明白写得什么玩意。
 现在，只有鸿钧老祖知道了。`
 
-…还考虑个屁，把[许可证](https://github.com/jiqing112/GLWTPL/blob/master/translations/LICENSE_zh-CN)的项目里！
+…还考虑个屁，把[许可证](https://github.com/jiqing112/GLWTPL/blob/master/translations/LICENSE_zh-CN)放到你的项目里！
 
 并且，祝福送给:  
 
