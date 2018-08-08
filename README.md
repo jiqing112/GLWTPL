@@ -16,7 +16,7 @@
 
 [![GOODLUCK](https://github.com/me-shaon/GLWTPL/blob/master/good-luck.gif "GOODLUCK")](https://github.com/me-shaon/GLWTPL/blob/master/good-luck.gif "GOODLUCK")
 
-它也有[NSFW版本](https://github.com/me-shaon/GLWTPL/blob/master/NSFW_LICENSE "NSFW版本")。庆祝一下吧！
+它也有[通俗易懂版本](https://github.com/jiqing112/GLWTPL/blob/master/translations/LICENSE_zh-CN)。庆祝一下吧！
 
 ## 可能的用例
 
