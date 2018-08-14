@@ -1,4 +1,4 @@
-# GLWTPL（祝你好运公共许可证）
+# GLWTPL（Good Luck With That Public License 祝你好运公共许可证）
 
 
 
