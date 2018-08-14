@@ -10,7 +10,7 @@
 
 …还考虑个屁，把[许可证](https://github.com/jiqing112/GLWTPL/blob/master/translations/LICENSE_zh-CN)放到你的项目里！
 
-并且，祝福送给:  
+并且，一首“祝你平安”送给:  
 
 未来的自己，或者其他人，外星人甚至一个人工智能机器人（就是可以自己编程还准备毁灭人类的那种）  
 
